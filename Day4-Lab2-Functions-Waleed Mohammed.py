@@ -8,4 +8,4 @@ def myfunction(x):
 		print('')
 
 
-myfunction(8)
+myfunction(5)
